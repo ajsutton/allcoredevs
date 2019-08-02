@@ -22,7 +22,7 @@ footer: "<a href='https://github.com/ajsutton/allcoredevs'>Improve this site</a>
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-console
+theme: jekyll-theme-hacker
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
