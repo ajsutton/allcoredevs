@@ -20,6 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://allcoredevs.com" # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: false
 favicon: '/favicon.png'
+repository: ajsutton/allcoredevs
 
 # Build settings
 markdown: kramdown
