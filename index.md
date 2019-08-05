@@ -13,7 +13,7 @@ The official source of information for upcoming calls is in the [ethereum/pm](ht
 
 Thursday 15 August 2019, [22:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/10pm)
 
-Agenda not yet available.
+[Agenda](https://github.com/ethereum/pm/issues/119)
 
 The official information about the next call including time and agenda is stored in an [issue in the ethereum/pm repo](https://github.com/ethereum/pm/issues).
 
