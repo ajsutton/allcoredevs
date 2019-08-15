@@ -11,6 +11,8 @@ The official source of information for upcoming calls is in the [ethereum/pm](ht
 
 [Notes from the last call (#67)](https://github.com/ethereum/pm/pull/118/files#diff-e300536a45726d0e2ef318090c96e078)
 
+Notes from call #68 are not yet available.
+
 ### Next Call - Meeting 69
 
 Friday 23 August 2019, [14:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/aug-23-2019/02-00pm)
