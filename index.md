@@ -11,9 +11,9 @@ The official source of information for upcoming calls is in the [ethereum/pm](ht
 
 [Notes from the last call (#68)](https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2068.md)
 
-### Next Call - Meeting 69
+### Next Call - Meeting 70
 
-Friday 23 August 2019, [14:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/aug-23-2019/02-00pm)
+Friday 6 September 2019, [14:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/sep-06-2019/02-00pm)
 
 The agenda is not yet available.
 
