@@ -13,7 +13,7 @@ The official source of information for upcoming calls is in the [ethereum/pm](ht
 
 ### Next Call - Meeting 71
 
-Friday 20 September 2019, [14:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/sep-20-2019/02-00pm)
+Friday 1 November 2019, [14:00 UTC](https://savvytime.com/converter/utc-to-germany-berlin-united-kingdom-london-ny-new-york-city-ca-san-francisco-china-shanghai-japan-tokyo-australia-sydney/sep-20-2019/02-00pm)
 
 The agenda is not yet available.
 
